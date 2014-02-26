@@ -3,7 +3,7 @@
 
 Once upon a time, we (two creeps named Jenn and Nick) decided that we were not worthy of esteemed titles such as Clojure Rockstar, JavaScript Ninja, or Scala Wizard. We are CSS Perverts.
 
-A lot of y'all have asked us tons of questions over this website called Twitter.Com/ and we want to compile the easiest ones to answer and create a video. What fun!
+A lot of y'all have asked us tons of questions over this website called Twitter.Com/ and we want to compile the easiest ones to answer and create a video. What fun! As a bonus, one lucky person will win absolutely nothing.
 
 ### How to ask a Question
 

@@ -16,6 +16,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * How do I do a pool request?
 * (For Jenn) Why are ventrilaquists so creepy?
 * What alternatives do libertarians have to using Ask-a-Cop?
+* Some say the biggest lie in tech is "That's Phase II." Is there a bigger one?
 
 ### Need more info?
 

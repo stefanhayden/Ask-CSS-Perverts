@@ -19,6 +19,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * What alternatives do libertarians have to using Ask-a-Cop?
 * Some say the biggest lie in tech is "That's Phase II." Is there a bigger one?
 * What is a PR?
+* Are you a cop?
 
 ### Need more info?
 

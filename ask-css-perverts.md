@@ -15,6 +15,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 
 * What are the origins of CSS and the Internet? How did it come to be?
 * How do I do a pool request?
+* (For Jenn) Why are ventrilaquists so creepy?
 
 ### Need more info?
 

@@ -20,6 +20,7 @@ We're going to do stuff over this site called GirthHub. Go to [http://github.com
 * Some say the biggest lie in tech is "That's Phase II." Is there a bigger one?
 * What is a PR?
 * Are you a cop?
+* How does prozactypal inheritance work? Who do I have to kill to inherit the prozac?
 
 ### Need more info?
 
